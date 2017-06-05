@@ -1,0 +1,2 @@
+pop3 nsu.some-body.ru mail1 stupidpass mail1_mailbox.txt
+http http://ccfit.nsu.ru/~ippolitov/CN/1.html task1.html
